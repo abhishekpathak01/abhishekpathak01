@@ -5,10 +5,10 @@ I’m a Computer Science student who enjoys building mobile apps, learning backe
 ---
 
 ## 🚀 What I Do
-- Build mobile applications using **Flutter & Dart**
-- Learn **backend development** concepts step by step
-- Study **DBMS and core CS fundamentals**
-- Practice **Git & GitHub** for real-world collaboration
+- Building mobile applications using **Flutter & Dart**
+- Learning **backend development** concepts step by step
+- Studying **DBMS and core CS fundamentals**
+- Practicing **Git & GitHub** for real-world collaboration
 
 ---
 
@@ -28,8 +28,8 @@ I’m a Computer Science student who enjoys building mobile apps, learning backe
 ---
 
 ## 🎯 Goals
-- Build real-world projects  
-- Secure a software development internship  
+- Build real-world projects 
+- Build Application for Students
 
 ---
 
