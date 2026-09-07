@@ -35,5 +35,5 @@ I’m a Computer Science student who enjoys building mobile apps, learning backe
 
 ## 🤝 Connect With Me
 - LinkedIn: **https://www.linkedin.com/in/abhishek-pathak-425516321**
-- Email: **abhishekpathakk7122006@gmail.com**
+- Email: **abhishekpathak00712@gmail.com**
                  🙂
